@@ -34,3 +34,4 @@ while liczba_wylosowana_przez_komp != liczba_zgadywana_przez_ludzia:
     ile_razy_zgadywal += 1
 
 print(f'Udało Ci się zgadnąć za {ile_razy_zgadywal} razem')
+# komentarz, żeby sprawdzić, czy to działa tak jakbym chciał
